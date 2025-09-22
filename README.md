@@ -10,10 +10,9 @@ O projeto tem como objetivo não apenas entreter, mas também demonstrar conceit
 - Código estruturado para aprendizado e fácil compreensão.
 
 ## Como jogar
-1. Baixe o arquivo `.sb3` disponível neste repositório.  
-2. Abra o [Scratch](https://scratch.mit.edu/projects/editor/) no navegador.  
-3. Vá em **Arquivo → Carregar do seu computador** e selecione o arquivo `.sb3`.  
-4. Execute o projeto e divirta-se.
+1. Baixe o arquivo `.sb3` disponível neste repositório.   
+2. Vá em **Arquivo → Carregar do seu computador** e selecione o arquivo `.sb3`.  
+3. Execute o projeto e divirta-se.
 
 ## Tecnologias
 - Scratch – Plataforma de programação visual baseada em blocos.
@@ -41,10 +40,9 @@ The project aims not only to entertain but also to demonstrate fundamental conce
 - Structured code for learning and easy understanding.
 
 ## How to play
-1. Download the `.sb3` file available in this repository.  
-2. Open [Scratch](https://scratch.mit.edu/projects/editor/) in your browser.  
-3. Go to **File → Load from your computer** and select the `.sb3` file.  
-4. Run the project and enjoy.
+1. Download the `.sb3` file available in this repository.   
+2. Go to **File → Load from your computer** and select the `.sb3` file.  
+3. Run the project and enjoy.
 
 ## Technologies
 - Scratch – Visual block-based programming platform.
