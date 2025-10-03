@@ -10,8 +10,8 @@ O projeto tem como objetivo não apenas entreter, mas também demonstrar conceit
 - Código estruturado para aprendizado e fácil compreensão.
 
 ## Como jogar
-1. Baixe o arquivo `.sb3` disponível neste repositório.   
-2. Vá em **Arquivo → Carregar do seu computador** e selecione o arquivo `.sb3`.  
+1. Clique no link para acessar o meu projeto
+2. https://scratch.mit.edu/projects/1212102768/
 3. Execute o projeto e divirta-se.
 
 ## Tecnologias
@@ -40,8 +40,8 @@ The project aims not only to entertain but also to demonstrate fundamental conce
 - Structured code for learning and easy understanding.
 
 ## How to play
-1. Download the `.sb3` file available in this repository.   
-2. Go to **File → Load from your computer** and select the `.sb3` file.  
+1.Click on the link to access my project
+2.https://scratch.mit.edu/projects/1212102768/
 3. Run the project and enjoy.
 
 ## Technologies
