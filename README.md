@@ -42,7 +42,7 @@ The project aims not only to entertain but also to demonstrate fundamental conce
 ## How to play
 1.Click on the link to access my project
 2.https://scratch.mit.edu/projects/1212102768/
-3. Run the project and enjoy.
+3.Run the project and enjoy.
 
 ## Technologies
 - Scratch – Visual block-based programming platform.
