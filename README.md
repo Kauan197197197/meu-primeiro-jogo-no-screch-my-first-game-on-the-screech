@@ -23,9 +23,6 @@ Este repositório é um projeto pessoal, mas você pode:
 - Estudar como os blocos foram organizados.
 - Adaptar ou melhorar o projeto para aprendizado próprio.
 
-## Licença
-Este projeto é de uso educacional e não comercial.
-
 ---
 
 # My Scratch Game
@@ -52,6 +49,3 @@ This repository is a personal project, but you can:
 - Download and test the game.
 - Study how the blocks are organized.
 - Adapt or improve the project for personal learning.
-
-## License
-This project is for educational and non-commercial use only.
